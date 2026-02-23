@@ -43,7 +43,8 @@ A **full narrative of growth, crisis, regulation, and reinvention** — told thr
 
 | Page 1 — Market Lifecycle | Page 2 — City Intelligence |
 |:---:|:---:|
-| ![Dashboard 1](./screenshots/dashboard1.png) | ![Dashboard 2](./screenshots/dashboard2.png) |
+| ![Dashboard 1](<img width="1309" height="733" alt="image" src="https://github.com/user-attachments/assets/5928fc17-6915-4a64-9cc6-407d35a1ee6e" />
+) | ![Dashboard 2](./screenshots/dashboard2.png) |
 | *New listings across 13 years of Airbnb history* | *Superhosts, ratings & pricing across 10 cities* |
 
 ---
