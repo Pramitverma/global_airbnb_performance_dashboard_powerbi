@@ -34,7 +34,12 @@ Page 1 — Market LifecyclePage 2 — City IntelligenceShow ImageShow ImageNew l
 
 ⚡ Key Findings — The Plot Twists
 <div align="center">
-#FindingImpact🔴2015 was Airbnb's golden year — peak new listings globallyBaseline for all growth analysis🟠Paris has 8,112 Superhosts — 531% more than Hong KongQuality scales with market maturity🟡Hotel rooms avg $800/night vs Private rooms at $462Massive price gap = untapped positioning🟢Mexico City leads in guest satisfaction across all 5 metricsEmerging markets outperform legacy ones🔵COVID wiped the 2018–2019 comeback in a single quarterFragility of platform-dependent economies
+#FindingImpact
+ 🔴2015 was Airbnb's golden year — peak new listings globallyBaseline for all growth analysis
+ 🟠Paris has 8,112 Superhosts — 531% more than Hong KongQuality scales with market maturity
+ 🟡Hotel rooms avg $800/night vs Private rooms at $462Massive price gap = untapped positioning
+ 🟢Mexico City leads in guest satisfaction across all 5 metricsEmerging markets outperform legacy ones
+ 🔵COVID wiped the 2018–2019 comeback in a single quarterFragility of platform-dependent economies
 </div>
 
 🧭 The Six Eras of Airbnb
@@ -50,16 +55,16 @@ INTRO          GROWTH         GROWTH          MATURITY        DECLINE       REIN
 🏙️ City Leaderboard
 SUPERHOST RANKINGS (Top → Bottom)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🥇 Paris       ████████████████████████████  8,112  (23.1% of all)
-🥈 New York    █████████████████             ~36.4% cumulative
-🥉 Sydney      ████████████                  ~48.4% cumulative
-4️⃣  Rome        ██████████                    ~58.3% cumulative
+🥇 Paris       ████████████████████████████    8,112  (23.1% of all)
+🥈 New York    █████████████████              ~36.4% cumulative
+🥉 Sydney      ████████████                   ~48.4% cumulative
+4️⃣  Rome       ██████████                    ~58.3% cumulative
 5️⃣  Rio         ████████                      ~67.8% cumulative
 6️⃣  Istanbul    ███████                       ~76.5% cumulative
 7️⃣  Mexico City ██████                        ~83.7% cumulative
 8️⃣  Bangkok     █████                         ~90.6% cumulative
 9️⃣  Cape Town   ████                          ~97.5% cumulative
-🔟 Hong Kong   ██                             1,286  (lowest)
+🔟 Hong Kong   ██                              1,286  (lowest)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📊 Guest Satisfaction Heatmap
@@ -82,7 +87,7 @@ Hong Kong      │   9.2   │    9.0     │   9.6    │     9.4     │  9.0 
   ─────────────────────────────────────────────────────────────
   🏨 Hotel Room      ████████████████████████████████  $800
   🏠 Entire Place    █████████████████████████████     $673   (-16% vs hotel)
-  🛋️  Shared Room     ██████████████████████████        $580   (-27% vs hotel)
+  🛋️  Shared Room     ██████████████████████████       $580   (-27% vs hotel)
   🚪 Private Room    ████████████████████              $462   (-42% vs hotel)
   ─────────────────────────────────────────────────────────────
 
