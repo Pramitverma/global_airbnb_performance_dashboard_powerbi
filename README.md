@@ -1,4 +1,4 @@
-<img width="1319" height="733" alt="image" src="https://github.com/user-attachments/assets/bdda3312-c0ba-4f47-b087-0ef5b7ceeca6" /><div align="center">
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -43,9 +43,7 @@ A **full narrative of growth, crisis, regulation, and reinvention** — told thr
 
 | Page 1 — Market Lifecycle | Page 2 — City Intelligence |
 |:---:|:---:|
-| ![Dashboard 1](<img width="1309" height="733" alt="image" src="https://github.com/user-attachments/assets/752340f5-58f1-4d47-8a43-ac1b610fa170" />
-) |[Dashboard 2]()
-) |
+| ![Dashboard 1](./screenshots/dashboard1.png) | ![Dashboard 2](./screenshots/dashboard2.png) |
 | *New listings across 13 years of Airbnb history* | *Superhosts, ratings & pricing across 10 cities* |
 
 ---
@@ -216,7 +214,7 @@ This one asks **why the numbers move** — tracing regulatory shifts, platform s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramit-verma-589077245)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pramitverma)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF385C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratapverma14810869@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF385C?style=for-the-badge&logo=gmail&logoColor=white)](pratapverma14810869@gmail.com)
 
 *Found this useful? A ⭐ means the world and helps others discover it.*
 
@@ -236,4 +234,3 @@ This one asks **why the numbers move** — tracing regulatory shifts, platform s
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FF385C&style=flat-square" alt="profile views" />
 
 </div>
->
