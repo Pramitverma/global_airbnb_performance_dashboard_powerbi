@@ -43,27 +43,36 @@ Page 1 — Market LifecyclePage 2 — City IntelligenceShow ImageShow ImageNew l
 </div>
 
 🧭 The Six Eras of Airbnb
-2008 ──────── 2010 ──────── 2012 ──────── 2014 ──────── 2016 ──────── 2018 ──────── 2020 ──►
+2008 ──────── 2010 ──────── 2012 ────────      2014 ────────   2016 ──────── 2018 ────────      2020 ──►
 
  🌱              🚀              🔥              📊              ⚖️              🔄              😷
-INTRO          GROWTH         GROWTH          MATURITY        DECLINE       REINVENTION      COVID-19
+INTRO         GROWTH         GROWTH          MATURITY        DECLINE       REINVENTION         COVID-19
 
-"Two guys       Listings       Entire place    Peak listings   Regulations    New growth       Everything
- renting        explode        dominates       hit ~30K/yr     tighten        emerges          stops"
- air beds"      globally       the market      globally        globally
+"Two guys     Listings       Entire place    Peak listings   Regulations    New growth       Everything
+ renting      explode        dominates       hit ~30K/yr     tighten        emerges          stops"
+ air beds"    globally       the market      globally        globally
 
 🏙️ City Leaderboard
 SUPERHOST RANKINGS (Top → Bottom)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🥇 Paris       ████████████████████████████    8,112  (23.1% of all)
+
 🥈 New York    █████████████████              ~36.4% cumulative
+
 🥉 Sydney      ████████████                   ~48.4% cumulative
+
 4️⃣  Rome       ██████████                    ~58.3% cumulative
+
 5️⃣  Rio         ████████                      ~67.8% cumulative
+
 6️⃣  Istanbul    ███████                       ~76.5% cumulative
+
 7️⃣  Mexico City ██████                        ~83.7% cumulative
+
 8️⃣  Bangkok     █████                         ~90.6% cumulative
+
 9️⃣  Cape Town   ████                          ~97.5% cumulative
+
 🔟 Hong Kong   ██                              1,286  (lowest)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -86,8 +95,11 @@ Hong Kong      │   9.2   │    9.0     │   9.6    │     9.4     │  9.0 
   Property Type      Avg Nightly Price
   ─────────────────────────────────────────────────────────────
   🏨 Hotel Room      ████████████████████████████████  $800
-  🏠 Entire Place    █████████████████████████████     $673   (-16% vs hotel)
+  
+  🏠 Entire Place    █████████████████████████████     $673 (-16% vs hotel)
+  
   🛋️  Shared Room     ██████████████████████████       $580   (-27% vs hotel)
+  
   🚪 Private Room    ████████████████████              $462   (-42% vs hotel)
   ─────────────────────────────────────────────────────────────
 
@@ -120,7 +132,7 @@ pythontech_stack = {
 
 🚀 How to Explore This Project
 bash# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/airbnb-global-dashboard.git
+git clone https://github.com/Pramitverma
 
 # 2. Open the dashboard
 # → Launch Power BI Desktop
